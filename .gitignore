@@ -6,4 +6,4 @@
 *.tfstate.*
 
 # .tfvars files
-*.tfvars
+do_not_check_in.tfvars
